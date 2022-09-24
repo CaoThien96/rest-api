@@ -1,0 +1,8 @@
+/node_modules/
+/tmp/
+/build/
+/package-lock.json
+/config.json
+*.swp
+*.swo
+deployment.yml

@@ -1,0 +1,612 @@
+{
+    "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D": [
+        {
+            "blockNumber": 201,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907094",
+            "period": "any",
+            "timestamp": 1663907094,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.68711671
+        },
+        {
+            "blockNumber": 203,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907104",
+            "period": "any",
+            "timestamp": 1663907104,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.08833006
+        },
+        {
+            "blockNumber": 205,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907114",
+            "period": "any",
+            "timestamp": 1663907114,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.22217623
+        },
+        {
+            "blockNumber": 207,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907124",
+            "period": "any",
+            "timestamp": 1663907124,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.40365657
+        },
+        {
+            "blockNumber": 209,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907134",
+            "period": "any",
+            "timestamp": 1663907134,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 96.59750795
+        },
+        {
+            "blockNumber": 211,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907144",
+            "period": "any",
+            "timestamp": 1663907144,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.43680784
+        },
+        {
+            "blockNumber": 213,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907154",
+            "period": "any",
+            "timestamp": 1663907154,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 96.89354056
+        },
+        {
+            "blockNumber": 215,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907164",
+            "period": "any",
+            "timestamp": 1663907164,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.37963095
+        },
+        {
+            "blockNumber": 217,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907175",
+            "period": "any",
+            "timestamp": 1663907175,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.30417553
+        },
+        {
+            "blockNumber": 219,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907184",
+            "period": "any",
+            "timestamp": 1663907184,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 100.87269604
+        },
+        {
+            "blockNumber": 221,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907194",
+            "period": "any",
+            "timestamp": 1663907194,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 101.25512066
+        },
+        {
+            "blockNumber": 223,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907204",
+            "period": "any",
+            "timestamp": 1663907204,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 102.30292357
+        },
+        {
+            "blockNumber": 225,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907215",
+            "period": "any",
+            "timestamp": 1663907215,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 100.76236718
+        },
+        {
+            "blockNumber": 227,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907224",
+            "period": "any",
+            "timestamp": 1663907224,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.46997552
+        },
+        {
+            "blockNumber": 229,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907234",
+            "period": "any",
+            "timestamp": 1663907234,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 100.11310566
+        },
+        {
+            "blockNumber": 231,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907244",
+            "period": "any",
+            "timestamp": 1663907244,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 101.27782248
+        },
+        {
+            "blockNumber": 233,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907254",
+            "period": "any",
+            "timestamp": 1663907254,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 102.83476635
+        },
+        {
+            "blockNumber": 235,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907264",
+            "period": "any",
+            "timestamp": 1663907264,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 103.10696167
+        },
+        {
+            "blockNumber": 237,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907274",
+            "period": "any",
+            "timestamp": 1663907274,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 103.45039351
+        },
+        {
+            "blockNumber": 239,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907284",
+            "period": "any",
+            "timestamp": 1663907284,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 103.87833289
+        },
+        {
+            "blockNumber": 241,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907295",
+            "period": "any",
+            "timestamp": 1663907295,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 104.87009004
+        },
+        {
+            "blockNumber": 243,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907305",
+            "period": "any",
+            "timestamp": 1663907305,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 103.65957719
+        },
+        {
+            "blockNumber": 245,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907314",
+            "period": "any",
+            "timestamp": 1663907314,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 104.86149536
+        },
+        {
+            "blockNumber": 247,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907325",
+            "period": "any",
+            "timestamp": 1663907325,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 103.40002419
+        },
+        {
+            "blockNumber": 249,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907335",
+            "period": "any",
+            "timestamp": 1663907335,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 102.48501515
+        },
+        {
+            "blockNumber": 251,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907345",
+            "period": "any",
+            "timestamp": 1663907345,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 101.28061359
+        },
+        {
+            "blockNumber": 253,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907355",
+            "period": "any",
+            "timestamp": 1663907355,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 101.75071033
+        },
+        {
+            "blockNumber": 255,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907364",
+            "period": "any",
+            "timestamp": 1663907364,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 101.91480383
+        },
+        {
+            "blockNumber": 257,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907374",
+            "period": "any",
+            "timestamp": 1663907374,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.99573525
+        },
+        {
+            "blockNumber": 259,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907385",
+            "period": "any",
+            "timestamp": 1663907385,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.86333728
+        },
+        {
+            "blockNumber": 261,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907395",
+            "period": "any",
+            "timestamp": 1663907395,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.07559088
+        },
+        {
+            "blockNumber": 263,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907404",
+            "period": "any",
+            "timestamp": 1663907404,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.58882126
+        },
+        {
+            "blockNumber": 265,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907415",
+            "period": "any",
+            "timestamp": 1663907415,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.12192558
+        },
+        {
+            "blockNumber": 267,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907424",
+            "period": "any",
+            "timestamp": 1663907424,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.91546536
+        },
+        {
+            "blockNumber": 269,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907435",
+            "period": "any",
+            "timestamp": 1663907435,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.5624064
+        },
+        {
+            "blockNumber": 271,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907444",
+            "period": "any",
+            "timestamp": 1663907444,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.32349656
+        },
+        {
+            "blockNumber": 273,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907454",
+            "period": "any",
+            "timestamp": 1663907454,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.182615
+        },
+        {
+            "blockNumber": 275,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907464",
+            "period": "any",
+            "timestamp": 1663907464,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.63252272
+        },
+        {
+            "blockNumber": 277,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907475",
+            "period": "any",
+            "timestamp": 1663907475,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 100.5069318
+        },
+        {
+            "blockNumber": 279,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907484",
+            "period": "any",
+            "timestamp": 1663907484,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 102.23356861
+        },
+        {
+            "blockNumber": 281,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907494",
+            "period": "any",
+            "timestamp": 1663907494,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 102.19376307
+        },
+        {
+            "blockNumber": 283,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907504",
+            "period": "any",
+            "timestamp": 1663907504,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 101.35927419
+        },
+        {
+            "blockNumber": 285,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907514",
+            "period": "any",
+            "timestamp": 1663907514,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.58779101
+        },
+        {
+            "blockNumber": 287,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907524",
+            "period": "any",
+            "timestamp": 1663907524,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.3438012
+        },
+        {
+            "blockNumber": 289,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907535",
+            "period": "any",
+            "timestamp": 1663907535,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.61060838
+        },
+        {
+            "blockNumber": 291,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907544",
+            "period": "any",
+            "timestamp": 1663907544,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.70115668
+        },
+        {
+            "blockNumber": 293,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907554",
+            "period": "any",
+            "timestamp": 1663907554,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.98538435
+        },
+        {
+            "blockNumber": 295,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907564",
+            "period": "any",
+            "timestamp": 1663907564,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 96.66198462
+        },
+        {
+            "blockNumber": 297,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907575",
+            "period": "any",
+            "timestamp": 1663907575,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.27317678
+        },
+        {
+            "blockNumber": 299,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907585",
+            "period": "any",
+            "timestamp": 1663907585,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.75577029
+        },
+        {
+            "blockNumber": 301,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907594",
+            "period": "any",
+            "timestamp": 1663907594,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.21625027
+        },
+        {
+            "blockNumber": 303,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907605",
+            "period": "any",
+            "timestamp": 1663907605,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.28103793
+        },
+        {
+            "blockNumber": 305,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907615",
+            "period": "any",
+            "timestamp": 1663907615,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.72076518
+        },
+        {
+            "blockNumber": 307,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907624",
+            "period": "any",
+            "timestamp": 1663907624,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.87323855
+        },
+        {
+            "blockNumber": 309,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907634",
+            "period": "any",
+            "timestamp": 1663907634,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.22071919
+        },
+        {
+            "blockNumber": 311,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907644",
+            "period": "any",
+            "timestamp": 1663907644,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 99.13248732
+        },
+        {
+            "blockNumber": 313,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907655",
+            "period": "any",
+            "timestamp": 1663907655,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.24357989
+        },
+        {
+            "blockNumber": 315,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907665",
+            "period": "any",
+            "timestamp": 1663907665,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.29458718
+        },
+        {
+            "blockNumber": 317,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907674",
+            "period": "any",
+            "timestamp": 1663907674,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.90935827
+        },
+        {
+            "blockNumber": 319,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907684",
+            "period": "any",
+            "timestamp": 1663907684,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 98.07758623
+        },
+        {
+            "blockNumber": 321,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907694",
+            "period": "any",
+            "timestamp": 1663907694,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 97.86292737
+        },
+        {
+            "blockNumber": 323,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907705",
+            "period": "any",
+            "timestamp": 1663907705,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 96.82657697
+        },
+        {
+            "blockNumber": 325,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907715",
+            "period": "any",
+            "timestamp": 1663907715,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.07201469
+        },
+        {
+            "blockNumber": 327,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907724",
+            "period": "any",
+            "timestamp": 1663907724,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 94.13770281
+        },
+        {
+            "blockNumber": 329,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907735",
+            "period": "any",
+            "timestamp": 1663907735,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.48073396
+        },
+        {
+            "blockNumber": 331,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907744",
+            "period": "any",
+            "timestamp": 1663907744,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.82180418
+        },
+        {
+            "blockNumber": 333,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907754",
+            "period": "any",
+            "timestamp": 1663907754,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 94.51415191
+        },
+        {
+            "blockNumber": 335,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907764",
+            "period": "any",
+            "timestamp": 1663907764,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 93.78726254
+        },
+        {
+            "blockNumber": 337,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907775",
+            "period": "any",
+            "timestamp": 1663907775,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 93.77488862
+        },
+        {
+            "blockNumber": 339,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907784",
+            "period": "any",
+            "timestamp": 1663907784,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 93.28128413
+        },
+        {
+            "blockNumber": 341,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907795",
+            "period": "any",
+            "timestamp": 1663907795,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 93.22057935
+        },
+        {
+            "blockNumber": 343,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907805",
+            "period": "any",
+            "timestamp": 1663907805,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 95.04502811
+        },
+        {
+            "blockNumber": 345,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907814",
+            "period": "any",
+            "timestamp": 1663907814,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 93.21273063
+        },
+        {
+            "blockNumber": 347,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907824",
+            "period": "any",
+            "timestamp": 1663907824,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 94.30556224
+        },
+        {
+            "blockNumber": 349,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "period": "last",
+            "timestamp": 1663907835,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 92.59408918
+        },
+        {
+            "blockNumber": 349,
+            "id": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D:1663907835",
+            "period": "any",
+            "timestamp": 1663907835,
+            "token": "0xCcdCbfB9E02e66aFC557024D14a9eBb3439A440D",
+            "value": 92.59408918
+        }
+    ]
+}
